@@ -2,7 +2,7 @@
 Il est possible d'afficher du code de façon plus lisible de deux façon.
 
 ## Les morceaux de code
-Pour formater un petit bout de code, on utilise des backticks (` \` `) pour encadrer le bout de code en question, de la même façon que pour mettre un texte en italique par exemple.
+Pour formater un petit bout de code, on utilise des backticks (`` ` ``) pour encadrer le bout de code en question, de la même façon que pour mettre un texte en italique par exemple.
 
 ```
 Cette ligne contient du code juste `ici`.
